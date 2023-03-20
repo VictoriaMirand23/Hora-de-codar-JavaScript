@@ -1,2 +1,2 @@
-# Hora-de-codar-1-JavaScript
+# Hora-de-codar-JavaScript
 Comandos básicos de javascript 
